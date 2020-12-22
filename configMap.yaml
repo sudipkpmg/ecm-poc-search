@@ -9,4 +9,4 @@ metadata:
   uid: 30e951d5-789e-439e-b89c-7e00fc4b5cae
 data:
   server.port: "8080"
-  run.status: "TNDHS ECM POC Search API is running in Openshift"
+  runstatus: "TNDHS ECM POC Search API is running in Openshift"

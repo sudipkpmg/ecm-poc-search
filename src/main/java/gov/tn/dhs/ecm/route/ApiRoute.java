@@ -20,7 +20,7 @@ class ApiRoute extends RouteBuilder {
     @Value("${server.port}")
     private String serverPort;
 
-    @Value("${run.status}")
+    @Value("${runstatus}")
     private String runStatus;
 
     public ApiRoute(SearchService searchService) {
